@@ -16,14 +16,7 @@
 -  [Power BI Dashboard](#PowerBIDashboard)
 -  [Insights](#Insights)
 -  [Conclusion](#Conclusion)
--  
--  
--  
--  
--  
--  
-
-
+  
 # Project Overview
 
 This project focuses on analyzing student engagement and academic performance using Python and Power BI. The main goal of this project is to identify learning patterns, engagement levels, and risk factors that affect student performance.
@@ -41,6 +34,7 @@ The project includes data cleaning, preprocessing, exploratory data analysis (ED
 * Generate insights using Python visualizations and Power BI.
 
 ---
+
 #  Dataset Information
  * source:Kaggle
  * domain:Education
@@ -240,16 +234,16 @@ The dashboard helps users quickly understand student behavior and academic perfo
 * Students classified under:
 
 
-High Risk
+  High Risk
 
 
-Low Engagement
+  Low Engagement
 
 
-Low Average Scores
+  Low Average Scores
 
 
-require immediate intervention because they show poor participation and weak academic performance, increasing the likelihood of dropout.
+  require immediate intervention because they show poor participation and weak academic performance, increasing the likelihood of dropout.
 
 5.  What does the violin plot reveal about student performance behavior?
 
@@ -272,19 +266,19 @@ require immediate intervention because they show poor participation and weak aca
 * This project helps educational institutions:
 
 
-Detect at-risk students early
+   Detect at-risk students early
 
 
-Improve retention rates
+   Improve retention rates
 
 
-Monitor student engagement
+   Monitor student engagement
 
 
-Support academic decision-making
+   Support academic decision-making
 
 
-Reduce dropout percentages through targeted intervention
+   Reduce dropout percentages through targeted intervention
 
 
  10.  What is the overall conclusion of the project?
