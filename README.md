@@ -54,8 +54,6 @@ The project includes data cleaning, preprocessing, exploratory data analysis (ED
 * Power BI
   
 
--- 
-
 ## Purpose of the Dataset
 
 The dataset helps analyze:
@@ -161,21 +159,21 @@ Different charts and visualizations were created to analyze the dataset:
 * pairplot: It is a pairplot used to show relationship between multiple numerical features.
 * 1.Diagonal(histograms):
 
-total_clicks: right skewed(most students have low clicks, few have very high clicks).
+    total_clicks: right skewed(most students have low clicks, few have very high clicks).
 
-avg_score: mostly between 40 to 100 (many students scoring in higher range).
+    avg_score: mostly between 40 to 100 (many students scoring in higher range).
 
-studied_credits: concentrated values (most students take similar number of credits)
+    studied_credits: concentrated values (most students take similar number of credits)
 
 * 2.total_click vs avg_score:
 
-slight upward trend -weak positive relationship(more clicks lead to slightly higher scores).
+    slight upward trend -weak positive relationship(more clicks lead to slightly higher scores).
 * 3.total_click vs studied credits:
 
-points scattered randomly- no clear pattern(click activity not related to credits)
+    points scattered randomly- no clear pattern(click activity not related to credits)
 * 4.avg_score vs studied_credits:
 
-no clear trend- no relationship(credits do not strongly affect score)
+    no clear trend- no relationship(credits do not strongly affect score)
 * Features used: total_clicks, avg_score, studied_credits.
 
 * Clicks have some impact on score( but weak) and studied_credits have almost no impact while scores are mostly concentrated in higher ranges.
