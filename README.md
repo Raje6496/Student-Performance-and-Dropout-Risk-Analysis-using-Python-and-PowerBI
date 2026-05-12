@@ -83,21 +83,37 @@ Different charts and visualizations were created to analyze the dataset:
 ## Univariate Analysis
 
 * Histogram
+* <img width="1027" height="836" alt="Screenshot 2026-05-08 195159" src="https://github.com/user-attachments/assets/f643cae2-3aac-4e68-8a28-5f61eadbf1f4" />
+
 * Box Plot
+* <img width="914" height="750" alt="Screenshot 2026-05-08 195312" src="https://github.com/user-attachments/assets/c3d5fc5e-108d-4ccf-b702-b55e11eaec83" />
+
 * Count Plot
+* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195241" src="https://github.com/user-attachments/assets/9b05f4f3-425d-4a98-8a09-53fdd27369aa" />
+
 
 ## Bivariate Analysis
 
 * Scatter Plot
+* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195416" src="https://github.com/user-attachments/assets/d69225a3-607d-430c-9019-4e45462a79ef" />
+
 * Bar Chart
+* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195452" src="https://github.com/user-attachments/assets/df4e2e25-ffc3-41c9-8aeb-1dbe509c4804" />
+
 * Correlation Heatmap
+* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195544" src="https://github.com/user-attachments/assets/5d1cef9f-f56e-4d54-bea4-20c72179fa88" />
+
 
 ## Multivariate Analysis
 * pairplot
+* <img width="1920" height="1020" alt="Screenshot 2026-05-09 065329" src="https://github.com/user-attachments/assets/66e1d95e-6e58-46bd-9306-ecbdf200412e" />
+
 * grouped analysis
 
 # Advanced plot
 * violin plot
+* <img width="934" height="795" alt="Screenshot 2026-05-08 195703" src="https://github.com/user-attachments/assets/d1a21df9-55f3-4038-a39c-1d662f994485" />
+
 
 ---
 
@@ -116,6 +132,8 @@ Different charts and visualizations were created to analyze the dataset:
 # Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize:
+<img width="1353" height="775" alt="Screenshot 2026-05-08 142026" src="https://github.com/user-attachments/assets/2f3b24e8-f86c-47ba-b358-080d4daff8e8" />
+
 
 * Total Students
 * Pass Percentage
