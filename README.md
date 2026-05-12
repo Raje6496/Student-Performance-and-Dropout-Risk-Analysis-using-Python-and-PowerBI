@@ -86,29 +86,37 @@ Different charts and visualizations were created to analyze the dataset:
 * <img width="1027" height="836" alt="Screenshot 2026-05-08 195159" src="https://github.com/user-attachments/assets/f643cae2-3aac-4e68-8a28-5f61eadbf1f4" />
 
 * Box Plot
-* <img width="914" height="750" alt="Screenshot 2026-05-08 195312" src="https://github.com/user-attachments/assets/c3d5fc5e-108d-4ccf-b702-b55e11eaec83" />
+* <img width="914" height="750" alt="Screenshot 2026-05-08 195312" src="https://github.com/user-attachments/assets/b48b4c1b-e30e-41f0-a5e8-d4b3bb1a1eb3" />
+
 
 * Count Plot
-* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195241" src="https://github.com/user-attachments/assets/9b05f4f3-425d-4a98-8a09-53fdd27369aa" />
+*  <img width="1011" height="741" alt="Screenshot 2026-05-08 195241" src="https://github.com/user-attachments/assets/9f201796-372a-4579-b55a-09a871a41ee3" />
+
 
 
 ## Bivariate Analysis
 
 * Scatter Plot
-* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195416" src="https://github.com/user-attachments/assets/d69225a3-607d-430c-9019-4e45462a79ef" />
+* <img width="946" height="761" alt="Screenshot 2026-05-08 195416" src="https://github.com/user-attachments/assets/8d3f9882-2630-4f24-b23b-f1efe05825c3" />
+
 
 * Bar Chart
-* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195452" src="https://github.com/user-attachments/assets/df4e2e25-ffc3-41c9-8aeb-1dbe509c4804" />
+* <img width="935" height="736" alt="Screenshot 2026-05-08 195452" src="https://github.com/user-attachments/assets/d7a8a3d9-6bc8-4691-96bc-748b94be68dc" />
+
 
 * Correlation Heatmap
-* <img width="1920" height="1020" alt="Screenshot 2026-05-08 195544" src="https://github.com/user-attachments/assets/5d1cef9f-f56e-4d54-bea4-20c72179fa88" />
+* <img width="915" height="685" alt="Screenshot 2026-05-08 195544" src="https://github.com/user-attachments/assets/2840c84a-5589-4d52-b688-bbbe5841802c" />
+
 
 
 ## Multivariate Analysis
 * pairplot
-* <img width="1920" height="1020" alt="Screenshot 2026-05-09 065329" src="https://github.com/user-attachments/assets/66e1d95e-6e58-46bd-9306-ecbdf200412e" />
+* <img width="1082" height="773" alt="Screenshot 2026-05-09 065329" src="https://github.com/user-attachments/assets/d0be64f0-761d-4618-82b1-3b01147a0857" />
+
 
 * grouped analysis
+* <img width="808" height="391" alt="image" src="https://github.com/user-attachments/assets/7c82f032-019d-4c74-93bb-c83bf284f471" />
+
 
 # Advanced plot
 * violin plot
