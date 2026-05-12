@@ -200,7 +200,7 @@ The dashboard helps users quickly understand student behavior and academic perfo
 
 
 ## Insights 
-* 1. What is the strongest factor influencing student performance in this dataset?
+1. What is the strongest factor influencing student performance in this dataset?
 
 * Student engagement, measured through total clicks, appears to be the strongest factor influencing academic performance. The scatter plot shows that students with higher interaction levels consistently achieve higher average scores, indicating that active participation improves learning outcomes.
 
