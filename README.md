@@ -294,19 +294,24 @@ An interactive Power BI dashboard was created to visualize:
 
 ---
 ## Recommendations for Business / Decision-Making
-1. Implement Early Warning Systems
+1. Implement Early Warning Systems:
+   
 Institutions should monitor:engagement level,clicks/activity and score drops to identify at-risk students early.
 
-2. Provide Support for Low-Engagement Students
+3. Provide Support for Low-Engagement Students:
+   
 Students with low participation should receive: mentoring, counseling,academicsupportand personalized learning plans before performance declines further.
 
-Increase Student Interaction with Learning Platforms
+4. Increase Student Interaction with Learning Platforms:
+   
 Educational institutions should encourage: regular LMS usage,quizzes,assignments and online discussions to improve engagement and learning outcomes.
 
-3. Focus on Retention Strategies
+5. Focus on Retention Strategies:
+   
 Since withdrawal cases are visible, institutions should track disengaged students,improve communication,provide motivational support to reduce dropout rates.
 
-4. Use Data-Driven Academic Monitoring
+6. Use Data-Driven Academic Monitoring:
+   
 This dashboard can help management: monitor student performance in real time identify learning patterns make informed academic decisions
 
 # Conclusion
