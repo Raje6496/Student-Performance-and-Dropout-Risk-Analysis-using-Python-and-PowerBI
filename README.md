@@ -104,7 +104,8 @@ Different charts and visualizations were created to analyze the dataset:
 * Feature used: avg_score
 
 * It means that a larger proportion of students are achieving higher scores, while fewer students are struggling with very low scores.
-* <img width="977" height="704" alt="Screenshot 2026-05-13 092024" src="https://github.com/user-attachments/assets/445dc748-1c59-4dbe-8c69-a300de5c1f3f" />
+* <img width="1027" height="836" alt="Screenshot 2026-05-08 195159" src="https://github.com/user-attachments/assets/ab5670e6-f501-4384-b0df-8a8d3274cb5e" />
+
 
 
 * Box Plot: This chart shows spread of clicks and identifies outliers.
@@ -113,7 +114,8 @@ Different charts and visualizations were created to analyze the dataset:
 * Feature used: total_clicks
 
 * This shows that only small number of users highly active compared to majority .
-* <img width="914" height="750" alt="Screenshot 2026-05-08 195312" src="https://github.com/user-attachments/assets/b48b4c1b-e30e-41f0-a5e8-d4b3bb1a1eb3" />
+* <img width="977" height="704" alt="Screenshot 2026-05-13 092024" src="https://github.com/user-attachments/assets/0d01eaf7-c1c0-468f-b52d-e62780ef765f" />
+
 
 
 * Count Plot: This chart shows number of students in each result category.
