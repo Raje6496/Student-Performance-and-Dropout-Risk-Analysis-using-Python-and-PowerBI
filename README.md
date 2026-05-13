@@ -207,7 +207,8 @@ Different charts and visualizations were created to analyze the dataset:
 # Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize:
-<img width="1353" height="775" alt="Screenshot 2026-05-08 142026" src="https://github.com/user-attachments/assets/2f3b24e8-f86c-47ba-b358-080d4daff8e8" />
+<img width="1347" height="758" alt="Screenshot 2026-05-13 161657" src="https://github.com/user-attachments/assets/b5c2abb6-08c0-43ff-b545-7c132beee700" />
+
 
 
 * Total Students
