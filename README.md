@@ -104,10 +104,11 @@ Different charts and visualizations were created to analyze the dataset:
 * Feature used: avg_score
 
 * It means that a larger proportion of students are achieving higher scores, while fewer students are struggling with very low scores.
-* <img width="1027" height="836" alt="Screenshot 2026-05-08 195159" src="https://github.com/user-attachments/assets/f643cae2-3aac-4e68-8a28-5f61eadbf1f4" />
+* <img width="977" height="704" alt="Screenshot 2026-05-13 092024" src="https://github.com/user-attachments/assets/445dc748-1c59-4dbe-8c69-a300de5c1f3f" />
+
 
 * Box Plot: This chart shows spread of clicks and identifies outliers.
-* Most users click between 400 to 1400,with a median around 800. The data is right skewed and there are some outliers with very high click values above 3000.
+* Most users click between 300 to 1500,with a median around 900. The data is right skewed and there are some outliers with very high click values above 3500.
 
 * Feature used: total_clicks
 
@@ -146,12 +147,13 @@ Different charts and visualizations were created to analyze the dataset:
 
 
 * Correlation Heatmap: This chart shows correlation between numerical variables.
-* There is a weak positive correlation(0.19)between clicks and score, indicating that increased activity slightly improves performance.however studied credits (0.0029)shows almost no correlation with score and clicks,meaning they don't signifiantly impact performance.
+* There is a weak positive correlation(0.21)between clicks and score, indicating that increased activity slightly improves performance.however studied credits (0.0024)shows almost no correlation with score and clicks,meaning they don't signifiantly impact performance.
 
 * Features used: total_clicks, avg_score, studied_credits
 
 * There is a positive relationship between clicks and score, other features(studied_credits)do not strongly affect performance.
-* <img width="915" height="685" alt="Screenshot 2026-05-08 195544" src="https://github.com/user-attachments/assets/2840c84a-5589-4d52-b688-bbbe5841802c" />
+* <img width="941" height="657" alt="Screenshot 2026-05-13 092003" src="https://github.com/user-attachments/assets/18a07b56-2d8f-44e0-9483-e19045627b0a" />
+
 
 
 
